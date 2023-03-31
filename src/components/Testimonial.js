@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; //optional
 import "../stylesheets/Testimonial.css"
 
 function Testimonial(props) {
